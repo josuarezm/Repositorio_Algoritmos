@@ -1,7 +1,7 @@
 El presente laboratorio tiene como fin la implementación del algoritmo genético
 en la búsqueda de máximos locales para distintas funciones.
-Por ende, se proponen genes binarios, con base 2, para la generación de individuos,
-con longitud de gen, tamaño de la población, probabilidad de mutación, cantidad de
+Por ende, se proponen genes binarios para la generación de individuos, con 
+longitud de gen, tamaño de la población, probabilidad de mutación, cantidad de
 generaciones, valor mínimo y máximo para el rango de búsqueda, ingresadas por el
 usuario.
 Así pues, se evidencia el error promedio de la población, en función de las 
